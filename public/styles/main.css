@@ -2,7 +2,7 @@ body {
   background: #222;
   font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui,
     helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
-  color: hotpink;
+   background: #3586ff;
 }
 
 main {
@@ -34,6 +34,9 @@ input {
 }
 
 footer {
-  position: absolute;
-  bottom: 0;
+    position: absolute;
+    bottom: 0; 
+    left: 50; 
+    z-index: 10;
+  
 }
